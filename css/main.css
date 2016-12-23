@@ -28,3 +28,16 @@ main .row {
 .blue {
   background-color: blue;
 }
+
+.purple {
+  background-color: purple;
+  color: white;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.grey {
+  background-color: grey;
+}
